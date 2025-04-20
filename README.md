@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![:name](https://count.getloli.com/@InitiativeDialogue?name=InitiativeDialogue&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![:name](https://count.getloli.com/@Minesweeper?name=Minesweeper&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
 
