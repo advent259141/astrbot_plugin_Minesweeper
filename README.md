@@ -1,3 +1,12 @@
+
+</div>
+
+<div align="center">
+
+![:name](https://count.getloli.com/@InitiativeDialogue?name=InitiativeDialogue&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+</div>
+
 # AstrBot 扫雷插件 (Minesweeper Plugin)
 
 这是一个扫雷游戏插件，允许用户在聊天中玩经典的扫雷游戏。游戏界面使用 Pillow 库渲染成图片发送。
